@@ -1,1 +1,2 @@
 # Ipl-win-predictor
+I love watching cricket and the IPL takes place every year, so I thought it would be interesting to create a win prediction model based on past year's data. This project involved a lot of data cleaning, some visualisations, preparing and pre-processing of data points, and then setting up and evaluating our training and testing datasets on various models. I chose random forest and logistic regression. 
